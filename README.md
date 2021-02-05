@@ -1,6 +1,6 @@
 # Creating an Azure Service Principal
 
-See [this](https://github.com/Azure-Samples/resource-manager-python-resources-and-groups). I used the [portal](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal) to create the values in the `keys.py` file.
+See [this](https://github.com/Azure-Samples/resource-manager-python-resources-and-groups). I used the [portal](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal?WT.mc_id=aiml-0000-sejuare) to create the values in the `keys.py` file.
 
 # Fill in a `keys.py` File
 This is in the `.gitignore` so you will need to create one:
